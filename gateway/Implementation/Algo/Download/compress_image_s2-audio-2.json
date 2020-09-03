@@ -1,0 +1,91 @@
+{
+    "ImageName": "s2-audio-2",
+    "ImageSize": "1.16 GB",
+    "Layers":
+    [
+        {
+            "LayerID": "9811207f4eba",
+            "LayerSize": "54.39 MB"
+        },
+        {
+            "LayerID": "0c8f4d0494dc",
+            "LayerSize": "17.57 MB"
+        },
+        {
+            "LayerID": "1954412987c0",
+            "LayerSize": "43.34 MB"
+        },
+        {
+            "LayerID": "1801b5eaa295",
+            "LayerSize": "132.2 MB"
+        },
+        {
+            "LayerID": "fe6c39fbcb26",
+            "LayerSize": "5.751 MB"
+        },
+        {
+            "LayerID": "aedd09f6ce6a",
+            "LayerSize": "18.61 MB"
+        },
+        {
+            "LayerID": "51fc2ea8e996",
+            "LayerSize": "241 B"
+        },
+        {
+            "LayerID": "3727b27d2359",
+            "LayerSize": "1.821 MB"
+        },
+        {
+            "LayerID": "877fa5251dfd",
+            "LayerSize": "10.02 MB"
+        },
+        {
+            "LayerID": "e96a2304fd7f",
+            "LayerSize": "55.26 MB"
+        },
+        {
+            "LayerID": "01ca7e0df015",
+            "LayerSize": "282.4 MB"
+        },
+        {
+            "LayerID": "6f5933b79656",
+            "LayerSize": "233.7 KB"
+        },
+        {
+            "LayerID": "a5dd3a278602",
+            "LayerSize": "125.1 MB"
+        },
+        {
+            "LayerID": "fd4b2c426fa1",
+            "LayerSize": "1.45 MB"
+        },
+        {
+            "LayerID": "95e0b5462122",
+            "LayerSize": "1.456 MB"
+        },
+        {
+            "LayerID": "6835269995ba",
+            "LayerSize": "101.8 KB"
+        },
+        {
+            "LayerID": "24231d53dcb8",
+            "LayerSize": "2.699 MB"
+        },
+        {
+            "LayerID": "b419be7f6c0a",
+            "LayerSize": "99 B"
+        },
+        {
+            "LayerID": "b6157a1ddf8d",
+            "LayerSize": "118.2 MB"
+        },
+        {
+            "LayerID": "8673e5ca94a7",
+            "LayerSize": "354.4 MB"
+        },
+        {
+            "LayerID": "a5a3572cd92d",
+            "LayerSize": "25.7 MB"
+        }
+    ]
+}

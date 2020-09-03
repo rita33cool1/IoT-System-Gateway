@@ -1,0 +1,87 @@
+{
+    "ImageName": "s2-yolo-2",
+    "ImageSize": "1.41 GB",
+    "Layers":
+    [
+        {
+            "LayerID": "6f2f362378c5",
+            "LayerSize": "45.34 MB"
+        },
+        {
+            "LayerID": "494c27a8a6b8",
+            "LayerSize": "10.79 MB"
+        },
+        {
+            "LayerID": "7596bb83081b",
+            "LayerSize": "4.34 MB"
+        },
+        {
+            "LayerID": "372744b62d49",
+            "LayerSize": "50.07 MB"
+        },
+        {
+            "LayerID": "615db220d76c",
+            "LayerSize": "215.1 MB"
+        },
+        {
+            "LayerID": "39aa0c89bda1",
+            "LayerSize": "5.834 MB"
+        },
+        {
+            "LayerID": "ac275157d894",
+            "LayerSize": "22.48 MB"
+        },
+        {
+            "LayerID": "98d16dec829a",
+            "LayerSize": "239 B"
+        },
+        {
+            "LayerID": "c8514b1c6524",
+            "LayerSize": "1.821 MB"
+        },
+        {
+            "LayerID": "40febaebf862",
+            "LayerSize": "12.54 MB"
+        },
+        {
+            "LayerID": "995b9aa0306d",
+            "LayerSize": "48.83 MB"
+        },
+        {
+            "LayerID": "bf572c2156d4",
+            "LayerSize": "282.7 MB"
+        },
+        {
+            "LayerID": "88dce960ecc4",
+            "LayerSize": "233.9 KB"
+        },
+        {
+            "LayerID": "79945cadf39f",
+            "LayerSize": "53.7 MB"
+        },
+        {
+            "LayerID": "e59305c713e1",
+            "LayerSize": "190 B"
+        },
+        {
+            "LayerID": "4d4b0cd07496",
+            "LayerSize": "87.17 MB"
+        },
+        {
+            "LayerID": "a9fc1eae9b88",
+            "LayerSize": "91 B"
+        },
+        {
+            "LayerID": "3b4d600cbb5b",
+            "LayerSize": "319.1 MB"
+        },
+        {
+            "LayerID": "cd37f0e6eba3",
+            "LayerSize": "354.4 MB"
+        },
+        {
+            "LayerID": "75edd0acf8d8",
+            "LayerSize": "304.8 KB"
+        }
+    ]
+}

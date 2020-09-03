@@ -1,0 +1,87 @@
+{
+    "ImageName": "s2-audio-1",
+    "ImageSize": "807.41 MB",
+    "Layers":
+    [
+        {
+            "LayerID": "9811207f4eba",
+            "LayerSize": "54.39 MB"
+        },
+        {
+            "LayerID": "0c8f4d0494dc",
+            "LayerSize": "17.57 MB"
+        },
+        {
+            "LayerID": "1954412987c0",
+            "LayerSize": "43.34 MB"
+        },
+        {
+            "LayerID": "1801b5eaa295",
+            "LayerSize": "132.2 MB"
+        },
+        {
+            "LayerID": "8a6861842a93",
+            "LayerSize": "5.751 MB"
+        },
+        {
+            "LayerID": "afc6a509a6e7",
+            "LayerSize": "14.52 MB"
+        },
+        {
+            "LayerID": "d296cedf3c5e",
+            "LayerSize": "1.818 MB"
+        },
+        {
+            "LayerID": "03c381950737",
+            "LayerSize": "3.733 MB"
+        },
+        {
+            "LayerID": "252f14004bd1",
+            "LayerSize": "10.02 MB"
+        },
+        {
+            "LayerID": "88ae96f02ad0",
+            "LayerSize": "3.502 MB"
+        },
+        {
+            "LayerID": "8f2b049fbae0",
+            "LayerSize": "279.2 MB"
+        },
+        {
+            "LayerID": "f4fe95975878",
+            "LayerSize": "231.7 KB"
+        },
+        {
+            "LayerID": "15c1d0e8bd4e",
+            "LayerSize": "121.5 MB"
+        },
+        {
+            "LayerID": "fd4b2c426fa1",
+            "LayerSize": "1.45 MB"
+        },
+        {
+            "LayerID": "95e0b5462122",
+            "LayerSize": "1.456 MB"
+        },
+        {
+            "LayerID": "239258fef3cc",
+            "LayerSize": "101.8 KB"
+        },
+        {
+            "LayerID": "707b3ee699a9",
+            "LayerSize": "11.85 MB"
+        },
+        {
+            "LayerID": "ae019b96296a",
+            "LayerSize": "99 B"
+        },
+        {
+            "LayerID": "043453ba691c",
+            "LayerSize": "118.2 MB"
+        },
+        {
+            "LayerID": "e0f517086e97",
+            "LayerSize": "25.76 MB"
+        }
+    ]
+}

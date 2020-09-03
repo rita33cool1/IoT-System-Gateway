@@ -1,0 +1,87 @@
+{
+    "Layers": [
+        {
+            "CompressLayerSize": "26.69 MB",
+            "LayerSize": "63217823",
+            "LayerID": "23884877105a"
+        },
+        {
+            "CompressLayerSize": "35.37 KB",
+            "LayerSize": "987481",
+            "LayerID": "bc38caa0f5b9"
+        },
+        {
+            "CompressLayerSize": "847 B",
+            "LayerSize": "745",
+            "LayerID": "2910811b6c42"
+        },
+        {
+            "CompressLayerSize": "161 B",
+            "LayerSize": "7",
+            "LayerID": "36505266dcc6"
+        },
+        {
+            "CompressLayerSize": "21.17 MB",
+            "LayerSize": "28604697",
+            "LayerID": "5de771aab367"
+        },
+        {
+            "CompressLayerSize": "1.694 MB",
+            "LayerSize": "4342248",
+            "LayerID": "562ec5219c22"
+        },
+        {
+            "CompressLayerSize": "10.54 MB",
+            "LayerSize": "35142021",
+            "LayerID": "fc092567eded"
+        },
+        {
+            "CompressLayerSize": "126.4 MB",
+            "LayerSize": "309975895",
+            "LayerID": "3d8d78c4134f"
+        },
+        {
+            "CompressLayerSize": "4.016 MB",
+            "LayerSize": "10264129",
+            "LayerID": "676e879eb7ae"
+        },
+        {
+            "CompressLayerSize": "1.663 MB",
+            "LayerSize": "3753395",
+            "LayerID": "7f479b4c6d75"
+        },
+        {
+            "CompressLayerSize": "887.7 MB",
+            "LayerSize": "1901192191",
+            "LayerID": "d13b5eca03bb"
+        },
+        {
+            "CompressLayerSize": "298 KB",
+            "LayerSize": "650919",
+            "LayerID": "6d8c73eeea9a"
+        },
+        {
+            "CompressLayerSize": "216.8 MB",
+            "LayerSize": "653268467",
+            "LayerID": "18549f9c04e1"
+        },
+        {
+            "CompressLayerSize": "5.685 MB",
+            "LayerSize": "21703001",
+            "LayerID": "41f913d2bd7e"
+        },
+        {
+            "CompressLayerSize": "93 B",
+            "LayerSize": "0",
+            "LayerID": "ff682e86d6ef"
+        },
+        {
+            "CompressLayerSize": "319 MB",
+            "LayerSize": "367285589",
+            "LayerID": "09c6e710b3be"
+        }
+    ],
+    "ImageName": "s2-yolo-11",
+    "ImageSize": "3400388608",
+    "ImageCompressSize": "1.51 GB"
+}

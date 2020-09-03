@@ -1,0 +1,68 @@
+s2-yolo-3: Pulling from little170/iscc19
+6f2f362378c5: Already exists
+494c27a8a6b8: Already exists
+7596bb83081b: Already exists
+372744b62d49: Already exists
+615db220d76c: Already exists
+9963bb908322: Already exists
+fe50f76bba87: Already exists
+b7f65421291f: Already exists
+9fdca9da23ed: Already exists
+2f5c961d5193: Pulling fs layer
+b8e75b6f1b3c: Pulling fs layer
+272ec0585759: Pulling fs layer
+ee4606faaf57: Pulling fs layer
+4bded42659dd: Pulling fs layer
+42bc8ee2fb48: Pulling fs layer
+7993c03ed865: Pulling fs layer
+829b62323a3c: Pulling fs layer
+ce506c97f670: Pulling fs layer
+c6e8d4b5d107: Pulling fs layer
+e6ccaebfc9d0: Pulling fs layer
+ee4606faaf57: Waiting
+4bded42659dd: Waiting
+42bc8ee2fb48: Waiting
+7993c03ed865: Waiting
+829b62323a3c: Waiting
+ce506c97f670: Waiting
+c6e8d4b5d107: Waiting
+e6ccaebfc9d0: Waiting
+2f5c961d5193: Verifying Checksum
+2f5c961d5193: Download complete
+2f5c961d5193: Pull complete
+ee4606faaf57: Verifying Checksum
+ee4606faaf57: Download complete
+4bded42659dd: Verifying Checksum
+4bded42659dd: Download complete
+42bc8ee2fb48: Verifying Checksum
+42bc8ee2fb48: Download complete
+272ec0585759: Verifying Checksum
+272ec0585759: Download complete
+829b62323a3c: Verifying Checksum
+829b62323a3c: Download complete
+7993c03ed865: Verifying Checksum
+7993c03ed865: Download complete
+ce506c97f670: Verifying Checksum
+ce506c97f670: Download complete
+e6ccaebfc9d0: Verifying Checksum
+e6ccaebfc9d0: Download complete
+c6e8d4b5d107: Verifying Checksum
+c6e8d4b5d107: Download complete
+b8e75b6f1b3c: Retrying in 5 seconds
+b8e75b6f1b3c: Retrying in 4 seconds
+b8e75b6f1b3c: Retrying in 3 seconds
+b8e75b6f1b3c: Retrying in 2 seconds
+b8e75b6f1b3c: Retrying in 1 second
+b8e75b6f1b3c: Download complete
+b8e75b6f1b3c: Pull complete
+272ec0585759: Pull complete
+ee4606faaf57: Pull complete
+4bded42659dd: Pull complete
+42bc8ee2fb48: Pull complete
+7993c03ed865: Pull complete
+829b62323a3c: Pull complete
+ce506c97f670: Pull complete
+c6e8d4b5d107: Pull complete
+e6ccaebfc9d0: Pull complete
+Digest: sha256:20dee53721f3c7e7854b0a2007a704072162b4b73d85322be9e05ddfad3305a5
+Status: Downloaded newer image for little170/iscc19:s2-yolo-3

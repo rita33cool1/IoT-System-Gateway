@@ -1,0 +1,92 @@
+s2-yolo-5: Pulling from little170/iscc19
+6f2f362378c5: Already exists
+494c27a8a6b8: Already exists
+7596bb83081b: Already exists
+372744b62d49: Already exists
+615db220d76c: Already exists
+1865698adfb0: Pulling fs layer
+c506c1442a1e: Pulling fs layer
+79230d91d387: Pulling fs layer
+8db41df01a2f: Pulling fs layer
+451491a6991b: Pulling fs layer
+9246bee59324: Pulling fs layer
+e1e96eee60ed: Pulling fs layer
+2465ff700855: Pulling fs layer
+7cc3d99f3a24: Pulling fs layer
+d0d058bfaaa2: Pulling fs layer
+47e6da73cdc8: Pulling fs layer
+5568bfd2af49: Pulling fs layer
+0326cbaed554: Pulling fs layer
+fe8c717186f8: Pulling fs layer
+9246bee59324: Waiting
+d84886c5547c: Pulling fs layer
+8db41df01a2f: Waiting
+f41afe813056: Pulling fs layer
+e1e96eee60ed: Waiting
+451491a6991b: Waiting
+2465ff700855: Waiting
+0326cbaed554: Waiting
+7cc3d99f3a24: Waiting
+fe8c717186f8: Waiting
+d0d058bfaaa2: Waiting
+d84886c5547c: Waiting
+47e6da73cdc8: Waiting
+5568bfd2af49: Waiting
+f41afe813056: Waiting
+79230d91d387: Verifying Checksum
+79230d91d387: Download complete
+1865698adfb0: Verifying Checksum
+1865698adfb0: Download complete
+1865698adfb0: Pull complete
+8db41df01a2f: Verifying Checksum
+8db41df01a2f: Download complete
+451491a6991b: Verifying Checksum
+451491a6991b: Download complete
+9246bee59324: Verifying Checksum
+9246bee59324: Download complete
+2465ff700855: Verifying Checksum
+e1e96eee60ed: Verifying Checksum
+e1e96eee60ed: Download complete
+d0d058bfaaa2: Download complete
+47e6da73cdc8: Verifying Checksum
+47e6da73cdc8: Download complete
+c506c1442a1e: Retrying in 5 seconds
+5568bfd2af49: Verifying Checksum
+5568bfd2af49: Download complete
+c506c1442a1e: Retrying in 4 seconds
+c506c1442a1e: Retrying in 3 seconds
+c506c1442a1e: Retrying in 2 seconds
+c506c1442a1e: Retrying in 1 second
+c506c1442a1e: Download complete
+c506c1442a1e: Pull complete
+79230d91d387: Pull complete
+8db41df01a2f: Pull complete
+7cc3d99f3a24: Retrying in 5 seconds
+451491a6991b: Pull complete
+7cc3d99f3a24: Retrying in 4 seconds
+7cc3d99f3a24: Retrying in 3 seconds
+7cc3d99f3a24: Retrying in 2 seconds
+9246bee59324: Pull complete
+7cc3d99f3a24: Retrying in 1 second
+7cc3d99f3a24: Verifying Checksum
+7cc3d99f3a24: Download complete
+e1e96eee60ed: Pull complete
+2465ff700855: Pull complete
+7cc3d99f3a24: Pull complete
+d0d058bfaaa2: Pull complete
+47e6da73cdc8: Pull complete
+5568bfd2af49: Pull complete
+0326cbaed554: Verifying Checksum
+0326cbaed554: Download complete
+d84886c5547c: Verifying Checksum
+d84886c5547c: Download complete
+f41afe813056: Verifying Checksum
+f41afe813056: Download complete
+fe8c717186f8: Verifying Checksum
+fe8c717186f8: Download complete
+0326cbaed554: Pull complete
+fe8c717186f8: Pull complete
+d84886c5547c: Pull complete
+f41afe813056: Pull complete
+Digest: sha256:edb64f76fa1facc25c945e4574dd06a1f60148fccd9441404710ac56cc37d62d
+Status: Downloaded newer image for little170/iscc19:s2-yolo-5

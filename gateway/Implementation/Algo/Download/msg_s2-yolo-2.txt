@@ -1,0 +1,77 @@
+s2-yolo-2: Pulling from little170/iscc19
+6f2f362378c5: Already exists
+494c27a8a6b8: Already exists
+7596bb83081b: Already exists
+372744b62d49: Already exists
+615db220d76c: Already exists
+39aa0c89bda1: Pulling fs layer
+ac275157d894: Pulling fs layer
+98d16dec829a: Pulling fs layer
+c8514b1c6524: Pulling fs layer
+40febaebf862: Pulling fs layer
+995b9aa0306d: Pulling fs layer
+bf572c2156d4: Pulling fs layer
+88dce960ecc4: Pulling fs layer
+79945cadf39f: Pulling fs layer
+e59305c713e1: Pulling fs layer
+4d4b0cd07496: Pulling fs layer
+a9fc1eae9b88: Pulling fs layer
+3b4d600cbb5b: Pulling fs layer
+cd37f0e6eba3: Pulling fs layer
+75edd0acf8d8: Pulling fs layer
+40febaebf862: Waiting
+995b9aa0306d: Waiting
+bf572c2156d4: Waiting
+88dce960ecc4: Waiting
+79945cadf39f: Waiting
+e59305c713e1: Waiting
+4d4b0cd07496: Waiting
+a9fc1eae9b88: Waiting
+3b4d600cbb5b: Waiting
+cd37f0e6eba3: Waiting
+75edd0acf8d8: Waiting
+c8514b1c6524: Waiting
+98d16dec829a: Verifying Checksum
+98d16dec829a: Download complete
+39aa0c89bda1: Download complete
+ac275157d894: Verifying Checksum
+ac275157d894: Download complete
+39aa0c89bda1: Pull complete
+c8514b1c6524: Verifying Checksum
+c8514b1c6524: Download complete
+40febaebf862: Verifying Checksum
+40febaebf862: Download complete
+ac275157d894: Pull complete
+98d16dec829a: Pull complete
+c8514b1c6524: Pull complete
+40febaebf862: Pull complete
+88dce960ecc4: Download complete
+995b9aa0306d: Verifying Checksum
+995b9aa0306d: Download complete
+79945cadf39f: Verifying Checksum
+79945cadf39f: Download complete
+e59305c713e1: Verifying Checksum
+e59305c713e1: Download complete
+995b9aa0306d: Pull complete
+a9fc1eae9b88: Download complete
+4d4b0cd07496: Verifying Checksum
+4d4b0cd07496: Download complete
+bf572c2156d4: Verifying Checksum
+bf572c2156d4: Download complete
+75edd0acf8d8: Verifying Checksum
+75edd0acf8d8: Download complete
+3b4d600cbb5b: Verifying Checksum
+3b4d600cbb5b: Download complete
+cd37f0e6eba3: Verifying Checksum
+cd37f0e6eba3: Download complete
+bf572c2156d4: Pull complete
+88dce960ecc4: Pull complete
+79945cadf39f: Pull complete
+e59305c713e1: Pull complete
+4d4b0cd07496: Pull complete
+a9fc1eae9b88: Pull complete
+3b4d600cbb5b: Pull complete
+cd37f0e6eba3: Pull complete
+75edd0acf8d8: Pull complete
+Digest: sha256:bf26df13e48403881aea16e4f1687a6f0dc0059670dad01271496948195cd8c4
+Status: Downloaded newer image for little170/iscc19:s2-yolo-2

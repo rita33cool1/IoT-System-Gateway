@@ -1,0 +1,117 @@
+{
+    "Layers": [
+        {
+            "CompressLayerSize": "45.34 MB",
+            "LayerSize": "100594230",
+            "LayerID": "6f2f362378c5"
+        },
+        {
+            "CompressLayerSize": "10.79 MB",
+            "LayerSize": "23231561",
+            "LayerID": "494c27a8a6b8"
+        },
+        {
+            "CompressLayerSize": "4.34 MB",
+            "LayerSize": "7812386",
+            "LayerID": "7596bb83081b"
+        },
+        {
+            "CompressLayerSize": "50.07 MB",
+            "LayerSize": "141782879",
+            "LayerID": "372744b62d49"
+        },
+        {
+            "CompressLayerSize": "215.1 MB",
+            "LayerSize": "562187866",
+            "LayerID": "615db220d76c"
+        },
+        {
+            "CompressLayerSize": "5.747 MB",
+            "LayerSize": "16859010",
+            "LayerID": "1865698adfb0"
+        },
+        {
+            "CompressLayerSize": "20.98 MB",
+            "LayerSize": "65337625",
+            "LayerID": "7159b3304cc0"
+        },
+        {
+            "CompressLayerSize": "240 B",
+            "LayerSize": "32",
+            "LayerID": "ad0713808ef6"
+        },
+        {
+            "CompressLayerSize": "1.821 MB",
+            "LayerSize": "6063712",
+            "LayerID": "7ba593904573"
+        },
+        {
+            "CompressLayerSize": "12.54 MB",
+            "LayerSize": "16397267",
+            "LayerID": "3c84e60c7b94"
+        },
+        {
+            "CompressLayerSize": "48.83 MB",
+            "LayerSize": "74720208",
+            "LayerID": "a194779a6c74"
+        },
+        {
+            "CompressLayerSize": "282.4 MB",
+            "LayerSize": "729521911",
+            "LayerID": "5a499724089f"
+        },
+        {
+            "CompressLayerSize": "233.7 KB",
+            "LayerSize": "461818",
+            "LayerID": "5c0616911104"
+        },
+        {
+            "CompressLayerSize": "53.7 MB",
+            "LayerSize": "101790617",
+            "LayerID": "4cfd77eb5f86"
+        },
+        {
+            "CompressLayerSize": "192 B",
+            "LayerSize": "0",
+            "LayerID": "b78fe0742e06"
+        },
+        {
+            "CompressLayerSize": "87.17 MB",
+            "LayerSize": "260935043",
+            "LayerID": "2f38f220478e"
+        },
+        {
+            "CompressLayerSize": "93 B",
+            "LayerSize": "0",
+            "LayerID": "9483cb1179e5"
+        },
+        {
+            "CompressLayerSize": "319.1 MB",
+            "LayerSize": "367414457",
+            "LayerID": "d9e82e22b99d"
+        },
+        {
+            "CompressLayerSize": "822.8 MB",
+            "LayerSize": "823722966",
+            "LayerID": "3c90ef3e9472"
+        },
+        {
+            "CompressLayerSize": "275.6 MB",
+            "LayerSize": "276134947",
+            "LayerID": "94b99326bbfb"
+        },
+        {
+            "CompressLayerSize": "304.4 KB",
+            "LayerSize": "691785",
+            "LayerID": "530a24797324"
+        },
+        {
+            "CompressLayerSize": "2.004 KB",
+            "LayerSize": "4951",
+            "LayerID": "f351a527bba9"
+        }
+    ],
+    "ImageName": "s2-yolo-4",
+    "ImageSize": "3575665235",
+    "ImageCompressSize": "2.1 GB"
+}
